@@ -1,0 +1,16 @@
+body {
+  background-color: #3b3b3b;
+  color: #fff;
+}
+
+.ms_post {
+  background-color: #ccc;
+  color: #000;
+  padding: 20px;
+  margin: 20px;
+}
+
+a {
+  color: red;
+}
+
